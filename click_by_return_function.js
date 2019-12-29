@@ -7,10 +7,10 @@ javascript:(function(){
 	
 	example)
 	<html>
-   <body>
-    <button type="submit" onclick="return button_submit('val1', 'val2');">login</button>
-   </body>
-  </html>
+         <body>
+          <button type="submit" onclick="return button_submit('val1', 'val2');">login</button>
+         </body>
+        </html>
 	
 	nn();
 })();
