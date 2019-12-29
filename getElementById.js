@@ -3,5 +3,6 @@ javascript:(function(){
 	n.value="your_name";
 	n=document.getElementById("userpass");
 	n.value="your_pass";
-	n.item(0).submit();
+	n=document.getElementById("userlogin");
+	n.click();
 })();
